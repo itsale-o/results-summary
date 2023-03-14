@@ -33,7 +33,7 @@ These are how desktop and mobile solutions look like
 
 ### Links
 
-- Solution URL: [This is my solution](https://itsale-o.github.io/results-summary-frontend-mentor/)
+- Solution URL: [This is my solution](https://itsale-o.github.io/results-summary/)
 
 ## My process
 
